@@ -1,4 +1,4 @@
-# Programa 1.6 Programa que calcula el área de un triángulo 
+# Programa 6 Programa que calcula el área de un triángulo 
 # Dados la base # y la altura por el usuario 
 # Fecha: 2024/10/15
 # Elaborado por: Jazmin Macias Sabas 
